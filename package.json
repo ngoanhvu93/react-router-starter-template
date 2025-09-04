@@ -17,6 +17,7 @@
     "publish": true
   },
   "dependencies": {
+    "firebase": "^12.2.1",
     "isbot": "5.1.26",
     "node": "^22.19.0",
     "react": "^19.0.0",
